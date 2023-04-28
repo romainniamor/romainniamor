@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**romainniamor/romainniamor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Actualy:
 
 - 🔭 I’m currently working on new project React / TypeScript / DallE-Api
@@ -13,6 +10,3 @@ Actualy:
 
 Languages and Tools:
 
-
-
--->
