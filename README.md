@@ -2,7 +2,7 @@
 
 Actualy:
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 
 
