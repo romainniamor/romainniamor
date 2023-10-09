@@ -2,7 +2,7 @@
 
 Actualy:
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m gonna learn React
 - 💬 Ask me about ...
 
 
