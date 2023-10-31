@@ -2,7 +2,7 @@
 
 Actualy:
 
-- 🌱 I’m gonna learn React
+- 🌱 I’m learning TypeScript
 - 💬 Ask me about ...
 
 
