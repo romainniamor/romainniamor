@@ -4,7 +4,7 @@ Actualy:
 
 - 🌱 I’m learning React
 - 💬 Ask me about ...
-- 😎 Take a look to https://crazee-sushi.vercel.app/
+- 😎 Take a look to https://crazee-sushi.vercel.app/ or https://horizon-car.vercel.app/
 
 
 
